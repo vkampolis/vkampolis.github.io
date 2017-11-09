@@ -1,2 +1,1 @@
-# vkampolis.github.io
-Main site
+Copyright: Vassilis Kampolis 2017
