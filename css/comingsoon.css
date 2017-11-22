@@ -237,6 +237,7 @@ i.social-icon:hover {
 	height: 100% !important;
 	overflow-x: hidden !important;
 	opacity: 0.6;
+	width: 100% !important
 }
 
 #slides .slides-container {
